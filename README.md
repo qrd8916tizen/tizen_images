@@ -2,6 +2,7 @@ tizen_images
 ============
 
 tizen file trees for qrd8916:
+
 tizen/data.tgz
 tizen/platform.tgz.00
 tizen/platform.tgz.01
@@ -21,7 +22,7 @@ $sudo tar zxvf data.tgz
 (Please note that you should use "sudo")
 
 2. extract platform
-$cat platform.tgz.00  platform.tgz.01  platform.tgz.02  platform.tgz.03  platform.tgz.04  platform.tgz.05 > platform.tgz
+$cat platform.tgz.00 platform.tgz.01 platform.tgz.02 platform.tgz.03 platform.tgz.04 platform.tgz.05 > platform.tgz
 $sudo tar zxvf platform.tgz
 (Please note that you should use "sudo")
 
